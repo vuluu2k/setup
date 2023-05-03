@@ -1,8 +1,5 @@
 # Để cài docker chạy trên nền wsl2 thì bạn cần cài đặt wsl 2 trước nhé
-# Tải docker desktop về trước
-
-<a href="https://www.docker.com/products/docker-desktop/"><h1>Download docker desktop</h1></a>
-
+## Tải [docker desktop](https://www.docker.com/products/docker-desktop) về trước
 ## 1. Bắt đầu cài đặt cấu hình phù hợp để chạy docker trên wsl2
 
 <b>Trong verison hệ điểu hành ảo mà bạn chọn ơ đây mình chọn ubuntu 20.04 mở terminal của nó lên</b>
