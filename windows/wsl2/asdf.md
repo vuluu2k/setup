@@ -8,7 +8,7 @@ sudo apt install autoconf bison build-essential libssl-dev libyaml-dev libreadli
 sudo apt install curl git
 ```
 
-## 2. Vô trang chủ [asdf](hhttps://asdf-vm.com/guide/getting-started.html#community-supported-download-methods)
+## 2. Vô trang chủ [asdf](https://asdf-vm.com/guide/getting-started.html#community-supported-download-methods)
 
 * Cài đặt phiên bản mới nhất hiện tại
 
