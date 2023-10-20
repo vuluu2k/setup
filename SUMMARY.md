@@ -6,7 +6,8 @@
 ## Enviroment
 
 * [Linux](enviroment/linux/README.md)
-  * [asdf](enviroment/linux/asdf.md)
+  * [asdf - manager package](enviroment/linux/asdf-manager-package.md)
 * [MacOs](enviroment/macos.md)
 * [Window](enviroment/window/README.md)
-  * [wsl2](enviroment/window/wsl2.md)
+  * [wsl2 - window subsystem linux](enviroment/window/wsl2-window-subsystem-linux/README.md)
+    * [setup docker in wsl2](enviroment/window/wsl2-window-subsystem-linux/setup-docker-in-wsl2.md)
