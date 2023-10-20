@@ -1,1 +1,7 @@
-<h1><center>Cùng xem chúng ta có những cài đặt gì nào?</center></h1>
+---
+description: Setup project myself
+---
+
+# Welcome
+
+## Welcome to my enviroment setup development for myself
