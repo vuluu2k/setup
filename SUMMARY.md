@@ -6,6 +6,8 @@
 ## Enviroment
 
 * [Linux](enviroment/linux/README.md)
+  * [Editor linux](enviroment/linux/editor-linux.md)
+  * [NeoVim](enviroment/linux/neovim.md)
   * [asdf - manager package](enviroment/linux/asdf-manager-package.md)
 * [MacOs](enviroment/macos.md)
 * [Window](enviroment/window/README.md)
