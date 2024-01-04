@@ -18,7 +18,7 @@ Giờ có 1 điểm quan trọng là chúng ta phải hiểu được Git nó c�
 
 &#x20;
 
-<img src="https://tedu.com.vn/uploaded/images/012021/gitflow.png" alt="" data-size="original">
+<figure><img src="https://tedu.com.vn/uploaded/images/012021/gitflow.png" alt=""><figcaption><p>mô hình hoạt động git</p></figcaption></figure>
 
 Đây là sơ đồ trạng thái của file từ khi tạo ra đến khi chúng ta đẩy lên Git, cơ bản thì nó có 3 trạng thái dưới local và 1 trạng thái đẩy lên server hay chưa (qua câu lệnh git push). Về cơ bản chúng ta chỉ cần nhớ git có 3 trạng thái thay vì 2 trạng thái như cac thằng khác.
 
@@ -38,7 +38,7 @@ Giờ chúng ta sẽ tìm hiểu một số từ khóa cần biết trong Git nh
 
 **Github**: Là một dịch vụ lưu trữ và chia sẻ mã nguồn sử dụng hệ thống quản trị Git, ngoài ra có Azure DevOps, Bitbucket…
 
-**Repositories**: Là nơi đặt mã nguồn git, thường là 1 project sẽ tạo 1 Repository riêng hoặc 1 Repository chứa nhiều mã nguồn nhiều project con. Nói chung nó là một bộ mã nguồn nếu muốn lưu trữ trên git thì chúng ta đều phải tạo ra 1 repository và đẩy code lên đó. Thường thì 1 account Git hoặc 1 project sẽ cho tạo nhiều Repository trên đó. Ví dụ: [https://github.com/](https://github.com/teduinternational)vuluu2k đây là Github account của mình chứa nhiều Repository trên đó, mỗi repository là một mã nguồn.
+**Repositories**: Là nơi đặt mã nguồn git, thường là 1 project sẽ tạo 1 Repository riêng hoặc 1 Repository chứa nhiều mã nguồn nhiều project con. Nói chung nó là một bộ mã nguồn nếu muốn lưu trữ trên git thì chúng ta đều phải tạo ra 1 repository và đẩy code lên đó. Thường thì 1 account Git hoặc 1 project sẽ cho tạo nhiều Repository trên đó. Ví dụ: [https://github.com/vuluu2k](https://github.com/vuluu2k) đây là Github account của mình chứa nhiều Repository trên đó, mỗi repository là một mã nguồn.
 
 **Branch**: Mỗi một repository chúng ta chia ra nhiều nhánh code, để giúp các developer hay nhóm phát triển các tính năng độc lập của phần mềm mà không bị ảnh hưởng đến nhau, mỗi nhánh sẽ là một danh sách các commit mà không ảnh hưởng đến danh sách commit của nhánh khác, chúng được sắp xếp theo thời gian trước sau. Chỉ khi merge nhánh này với nhánh kia thì code mới được nhập chung với nhau.
 
