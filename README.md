@@ -1,13 +1,17 @@
 ---
-description: Setup project myself
+description: Hello everyone, I write this document for setup, build project and learning OS
 ---
 
 # Welcome
 
-## Welcome to my enviroment setup development for myself
+## Enviroment
 
-Welcome to My setup! Here you'll find all the documentation you need to get up and running with the some my project.
+Now, you select a enviroment for wirte code, development application, systerm for yourseft such as:
 
-## Want to jump right in?
+* [Windows](enviroment/window/): common for build application C# but slow performance
+* [Linux](enviroment/linux/): common for developer with power peformance, compatible any system, framework...
+* [MacOs](enviroment/macos.md): very good for developer but you need buy it because it very expensive with macbook
+
+## Quick Start?
 
 Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
