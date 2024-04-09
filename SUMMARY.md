@@ -7,6 +7,7 @@
     * [Set default editor linux](enviroment/linux/set-default-editor-linux.md)
     * [Neovim](enviroment/linux/neovim.md)
     * [asdf - manager package](enviroment/linux/asdf-manager-package.md)
+    * [Swapon](enviroment/linux/swapon.md)
   * [Window](enviroment/window/README.md)
     * [wsl2 - window subsystem linux](enviroment/window/wsl2-window-subsystem-linux/README.md)
       * [setup docker in wsl2](enviroment/window/wsl2-window-subsystem-linux/setup-docker-in-wsl2.md)
