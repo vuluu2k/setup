@@ -10,7 +10,7 @@ Now, you select a enviroment for wirte code, development application, systerm fo
 
 * [Windows](enviroment/window/): common for build application C# but slow performance
 * [Linux](enviroment/linux/): common for developer with power peformance, compatible any system, framework...
-* [MacOs](enviroment/macos.md): very good for developer but you need buy it because it very expensive with macbook
+* [MacOs](enviroment/macos/): very good for developer but you need buy it because it very expensive with macbook
 
 ## Quick Start?
 
